@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LWvIZA/ZyGZOEJTqWqY3Ox/KvQ8vkbPl/1JkbQoVzGc=",
+  "Source": "IPFSCluster_API",
+  "BasePath": "_content/IPFSCluster_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
